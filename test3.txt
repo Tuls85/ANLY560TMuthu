@@ -1,1 +1,1 @@
-print ("Oh my!")
+print ("Oh my God!")
